@@ -1,4 +1,4 @@
-import { WordSpecimen } from '../types';
+import { WordSpecimen } from "./weird.js";
 
 /**
  * Economic/Financial Word Specimens
